@@ -1,5 +1,5 @@
 # Analyse-sentiment-tweet
 
-[Code](https://github.com/ThibaultLanthiez/Prediction-issue-matchs-foot/blob/main/Projet_1_Classification_Odds_Football_leagues.ipynb)
+[Code](https://github.com/ThibaultLanthiez/Analyse-sentiment-tweet/blob/main/Projet_9_Analyse_de_sentiment_Message_haineux.ipynb)
 
 [Retour](https://github.com/ThibaultLanthiez/Portfolio)
