@@ -12,7 +12,7 @@ Puis, avec le langage python j'ai mis en forme ces tweets pour les transformer e
 
 Enfin, avec la bibliothèque TensorFlow.Keras de python, j'ai créé un réseau de neurones récurrents (RNN). 
 
-Après entraînement et optimisation, mon modèle est capable de déterminer correctement la nature de 90 % de tweets que l'on lui donne.
+Après entraînement et optimisation, mon modèle est capable de déterminer correctement la nature de 90% des tweets que l'on lui donne.
 
 # Code
 
