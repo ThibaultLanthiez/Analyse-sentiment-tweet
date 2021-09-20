@@ -6,11 +6,11 @@
 
 L'objectif est de déterminer si un tweet est haineux ou non en fonction du texte qui le compose.
 
-Pour cela, j'ai téléchargé sur la plateforme Kaggle, un jeu de données composé d'un ensemble de tweet de taille variable.
+Pour cela, j'ai téléchargé sur la plateforme Kaggle, un jeu de données composé d'un ensemble de tweets de tailles variables.
 
-Puis, avec le langage python j'ai mis en forme ces tweets pour les transformer en séquence de tokens.
+Puis, avec le langage python j'ai mis en forme ces tweets pour les transformer en séquences de tokens.
 
-Enfin, avec la bibliothèque TensorFlow.Keras de python, j'ai créé un réseau de neurones récurrents (RNN). 
+Enfin, avec la bibliothèque Keras de python, j'ai créé un réseau de neurones récurrents (RNN). 
 
 Après entraînement et optimisation, mon modèle est capable de déterminer correctement la nature de 90% des tweets que l'on lui donne.
 
